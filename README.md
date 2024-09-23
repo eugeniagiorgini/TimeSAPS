@@ -1,2 +1,2 @@
 # TimeSAPS
-TimeSAPS: Time Series Analysis of Persistent Scatterers - No GUI version
+TimeSAPS: Time Series Analysis of Persistent Scatterers
